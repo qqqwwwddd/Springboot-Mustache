@@ -1,8 +1,8 @@
 package com.cos.viewapp.web;
 
 public class Board {
-	private 	int			 id;
-	private	 String 	title;
+	private int  id;
+	private String title;
 	
 	// 생성자
 	public Board(int id, String title) {
